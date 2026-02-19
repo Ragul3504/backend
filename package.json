@@ -12,10 +12,7 @@
     "cors": "^2.8.5",
     "nodemailer": "^8.0.1"
   },
-  "devDependencies": {
-    "vercel": "^50.19.1"
-  },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
